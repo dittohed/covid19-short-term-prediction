@@ -8,10 +8,11 @@ My team picked and then **tested and compared different models' performance in r
 * Facebook's Prophet;
 * classic regression model: ARIMAX;
 * NN model: LSTM.
+
 **With this project, our team took third place in Student Research Groups Competetition (Computer Science Section B)**. 
 <img src = ".images/comparision.png"/>
 <br>
-Please feel free to check out [those slides]('./slides/slides.pdf) in polish.
+Please feel free to check out [those slides](./slides/slides.pdf) in polish.
 <br>
 
 ## Data
