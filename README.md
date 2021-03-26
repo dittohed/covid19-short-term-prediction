@@ -24,4 +24,5 @@ We utilized [Michał Rogalski's sheet](https://docs.google.com/spreadsheets/d/1i
 <br>
 **I'm proud that I've accomplished the task within 2 weeks with little prior knowledge about sequential NN models.**
 
-
+## What's next
+The project is terminated due to a change in cases reporting policy. :(
