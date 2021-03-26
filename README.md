@@ -1,6 +1,6 @@
 # COVID-19 short-term prediction in Poland
 
-This repo is a slightly corrected **record of my participation in a student research group project** entitled *"COVID-19 short-term prediction in Poland - a comparative research"*.
+This repo is a slightly enhanced **record of my participation in a student research group project** entitled *"COVID-19 short-term prediction in Poland - a comparative research"*.
 <br>
 
 ## What was the project about
