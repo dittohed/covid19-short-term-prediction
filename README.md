@@ -13,14 +13,14 @@ My team picked and then **tested and compared different models' performance in r
 <br>
 <img src = "./images/comparison.png"/>
 <br>
-Please feel free to check out [those slides](./slides/slides.pdf) in polish.
+Please feel free to check out [these slides](./slides/slides.pdf) in polish.
 <br>
 
 ## Data
 We utilized [Michał Rogalski's sheet](https://docs.google.com/spreadsheets/d/1ierEhD6gcq51HAm433knjnVwey4ZE5DCnu1bW7PRG3E/edit#gid=1309014089) as our data source. <br>
 
 ## My responsibilties
-**My task was to preproccess the data and then train an LSTM model** to see, if it might be doing well despite the relatively small amount of timeseries data.
+**My task was to preproccess the data and then train an LSTM model** to see if it might be doing well despite the relatively small amount of timeseries data.
 <br>
 **I'm proud that I've accomplished the task within 2 weeks with little prior knowledge about sequential NN models.**
 
