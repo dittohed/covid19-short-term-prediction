@@ -11,7 +11,7 @@ My team picked and then **tested and compared different models' performance in r
 
 **With this project, our team took third place in Student Research Groups Competetition (Computer Science Section B)**. 
 <br>
-<img src = ".images/comparision.png"/>
+<img src = "./images/comparison.png"/>
 <br>
 Please feel free to check out [those slides](./slides/slides.pdf) in polish.
 <br>
