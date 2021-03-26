@@ -9,7 +9,7 @@ My team picked and then **tested and compared different models' performance in r
 * classic regression model: ARIMAX;
 * NN model: LSTM.
 
-**With this project, our team took third place in Student Research Groups Competetition (Computer Science Section B)**. 
+**With this project, our team took third place in Student Research Groups Competetition (Computer Science Section B) at AGH University of Science and Technology**. 
 <br>
 <img src = "./images/comparison.png"/>
 <br>
