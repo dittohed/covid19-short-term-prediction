@@ -10,6 +10,7 @@ My team picked and then **tested and compared different models' performance in r
 * NN model: LSTM.
 
 **With this project, our team took third place in Student Research Groups Competetition (Computer Science Section B)**. 
+<br>
 <img src = ".images/comparision.png"/>
 <br>
 Please feel free to check out [those slides](./slides/slides.pdf) in polish.
@@ -20,6 +21,7 @@ We utilized [Michał Rogalski's sheet](https://docs.google.com/spreadsheets/d/1i
 
 ## My responsibilties
 **My task was to preproccess the data and then train an LSTM model** to see, if it might be doing well despite the relatively small amount of timeseries data.
+<br>
 **I'm proud that I've accomplished the task within 2 weeks with little prior knowledge about sequential NN models.**
 
 
