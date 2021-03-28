@@ -3,7 +3,7 @@
 This repo is a slightly enhanced **record of my participation in a student research group project** entitled *"COVID-19 short-term prediction in Poland - a comparative research"*.
 <br>
 
-## What was the project about
+## About the project
 My team picked and then **tested and compared different models' performance in regards to short-term pandemic prediction**, including:
 * Facebook's Prophet;
 * classic regression model: ARIMAX;
